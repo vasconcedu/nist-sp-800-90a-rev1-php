@@ -6,7 +6,7 @@ Last updated: 11/28/2020 (old repo dropped, refactored, added class diagram)
 
 ## Authors
 
-* Eduardo Vasconcelos (vasconcedu)<br/>https://tereresecurity.wordpress.com/
+* Eduardo Vasconcelos (vasconcedu), https://tereresecurity.wordpress.com/
 * Diogo Brandão (dbrandao)
 
 ## Class Diagram 
