@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# Authors
 # Eduardo Vasconcelos (vasconcedu), tereresecurity.wordpress.com
 # Diogo Brandao (dbrandao)
 
