@@ -46,13 +46,13 @@ try {
 }
 ```
 
-### Example
+### Running example.php
 
 ```bash
 $ php example.php
 ```
 
-### Test
+### Tests
 
 ```bash
 $ bash run-tests.sh
