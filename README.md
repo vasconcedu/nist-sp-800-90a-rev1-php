@@ -8,6 +8,8 @@ Eduardo Vasconcelos (vasconcedu)
 
 https://tereresecurity.wordpress.com/
 
+I must thank my dear colleague and good friend dbrdem for his contribution. 
+
 ## Class Diagram 
 
 ![class diagram](https://github.com/vasconcedu/nist-sp-800-90a-rev1-php/raw/main/classes.png)
