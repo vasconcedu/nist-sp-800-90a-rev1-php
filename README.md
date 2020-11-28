@@ -2,6 +2,8 @@
 
 NIST SP 800-90A Rev. 1 deterministic random bit generator written in PHP.
 
+![class diagram](https://github.com/vasconcedu/nist-sp-800-90a-rev1-php/raw/main/classes.png)
+
 ## Author 
 
 Eduardo Vasconcelos (vasconcedu)
