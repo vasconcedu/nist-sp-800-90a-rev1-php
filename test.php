@@ -1,7 +1,8 @@
 <?php
 
-// Eduardo Vasconcelos (vasconcedu)
-// tereresecurity.wordpress.com
+// Authors
+// Eduardo Vasconcelos (vasconcedu), tereresecurity.wordpress.com
+// Diogo Brandao (dbrandao)
 
 require_once 'DRBG.php';
 
