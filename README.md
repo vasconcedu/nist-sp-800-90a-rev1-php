@@ -2,7 +2,7 @@
 
 NIST SP 800-90A Rev. 1 HMAC SHA-256 deterministic random bit generator written in PHP
 
-Last updated: 11/28/2020
+Last updated: 11/28/2020 (old repo has been dropped)
 
 ## Authors
 
