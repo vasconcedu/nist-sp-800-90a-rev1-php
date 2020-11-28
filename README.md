@@ -26,6 +26,8 @@ Entropy input is obtained using OpenSSL (hence not NIST-approved).
 
 ## Usage
 
+### Library
+
 Use as defined in example.php, e.g.:
 
 ```php
@@ -42,6 +44,18 @@ try {
 } catch (Exception $e) {
     echo 'Caught exception: ', $e->getMessage(), "\n";
 }
+```
+
+### Example
+
+```bash
+$ php example.php
+```
+
+### Test
+
+```bash
+$ bash run-tests.sh
 ```
 
 ## License 
