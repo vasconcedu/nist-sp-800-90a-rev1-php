@@ -52,7 +52,7 @@ try {
 $ php example.php
 ```
 
-### Tests
+### NIST CAVP Tests
 
 ```bash
 $ bash run-tests.sh
