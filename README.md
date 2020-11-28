@@ -2,13 +2,12 @@
 
 NIST SP 800-90A Rev. 1 HMAC SHA-256 deterministic random bit generator written in PHP
 
-## Author 
+Last updated: 11/28/2020
 
-Eduardo Vasconcelos (vasconcedu)
+## Authors
 
-https://tereresecurity.wordpress.com/
-
-I must thank my dear colleague and good friend dbrdem for his contribution. 
+* Eduardo Vasconcelos (vasconcedu)<br/>https://tereresecurity.wordpress.com/
+* Diogo Brandão (dbrandao)
 
 ## Class Diagram 
 
