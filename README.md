@@ -1,6 +1,6 @@
 # NIST SP 800-90A Rev. 1 (PHP) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-NIST SP 800-90A Rev. 1 deterministic random bit generator written in PHP.
+NIST SP 800-90A Rev. 1 HMAC SHA-256 deterministic random bit generator written in PHP
 
 ## Author 
 
