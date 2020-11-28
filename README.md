@@ -58,6 +58,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Acknowledgements
 
-Directory test contains NIST test vectors for HMAC DRBG implementations. Please refer to https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program.
+Directory ```test/``` contains NIST test vectors for HMAC DRBG implementations. Please refer to https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program.
 
 Please note that even though this implementation passes FIPS 140 randomness tests and NIST CAVP tests, it has not been submitted for official NIST validation.
