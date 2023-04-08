@@ -1,7 +1,7 @@
 <?php
 
 // Authors
-// Eduardo Vasconcelos (vasconcedu), tereresecurity.wordpress.com
+// Eduardo Vasconcelos (vasconcedu), https://vasconcedu.github.io/
 // Diogo Brandao (dbrandao)
 
 abstract class DRBG {
