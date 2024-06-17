@@ -25,7 +25,7 @@ Entropy input is obtained using OpenSSL (hence not NIST-approved).
 
 ### Library
 
-Use as defined in example.php, e.g.:
+Use as defined in `example.php`, e.g.:
 
 ```php
 try {
@@ -43,7 +43,7 @@ try {
 }
 ```
 
-### Running example.php
+### Running `example.php`
 
 ```bash
 $ php example.php
