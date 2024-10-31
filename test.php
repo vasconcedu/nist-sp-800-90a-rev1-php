@@ -1,9 +1,5 @@
 <?php
 
-// Authors
-// Eduardo Vasconcelos (vasconcedu), https://vasconcedu.github.io/
-// Diogo Brandao (dbrandao)
-
 require_once 'DRBG.php';
 
 const
