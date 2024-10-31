@@ -1,9 +1,5 @@
 <?php
 
-// Authors
-// Eduardo Vasconcelos (vasconcedu), https://vasconcedu.github.io/
-// Diogo Brandao (dbrandao)
-
 abstract class DRBG {
 
     const // (All in bits)
