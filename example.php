@@ -1,9 +1,5 @@
 <?php
 
-// Authors
-// Eduardo Vasconcelos (vasconcedu), https://vasconcedu.github.io/
-// Diogo Brandao (dbrandao)
-
 require_once 'DRBG.php';
 
 // This file shows how to use DRBG.php, cycling through its various
