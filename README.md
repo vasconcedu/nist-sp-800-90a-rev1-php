@@ -1,6 +1,6 @@
 # NIST SP 800-90A Rev. 1 (PHP)
 
-NIST SP 800-90A Rev. 1 HMAC SHA-256 deterministic random bit generator written in PHP
+NIST SP 800-90A Rev. 1 HMAC SHA-256 deterministic random bit generator written in PHP.
 
 ## Class Diagram 
 
